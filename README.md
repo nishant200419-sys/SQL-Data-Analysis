@@ -1,6 +1,6 @@
-============================================================================================
+=======================================================================
 # 📈SQL-Data-Analysis
-============================================================================================
+=======================================================================
 ## 🔍Overview
 Performed end-to-end data analysis on customer, product, and sales datasets from a data warehouse using SQL.
 Conducted Exploratory Data Analysis (EDA) and applied advanced analytics techniques, including change over time,
